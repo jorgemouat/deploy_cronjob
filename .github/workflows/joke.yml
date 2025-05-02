@@ -2,7 +2,7 @@ name: Chuck Norris Joke Logger
 
 on:
   schedule:
-    - cron: "0 21 * * 3"
+    - cron: "10 14 * * 3"
   workflow_dispatch: # para ejecutarlo manualmente desde GitHub
 
 jobs:
